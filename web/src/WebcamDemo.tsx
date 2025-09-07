@@ -151,7 +151,6 @@ export default function WebcamDemo() {
 				</button>
 			</div>
 			<canvas
-				id='cvs'
 				ref={canvasRef}
 				width={640}
 				height={480}
